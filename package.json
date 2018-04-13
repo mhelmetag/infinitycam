@@ -2,7 +2,7 @@
   "name": "infinitycam",
   "version": "1.0.0",
   "description": "Watch Surfline Cams for (basically) Infinity with No Ads",
-  "main": "build/content.js",
+  "main": "src/content.js",
   "scripts": {
     "build": "./node_modules/.bin/babel src -d build"
   },
