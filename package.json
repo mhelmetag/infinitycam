@@ -4,7 +4,9 @@
   "description": "Watch Surfline Cams for (basically) Infinity with No Ads",
   "main": "src/content.js",
   "scripts": {
-    "build": "./node_modules/.bin/babel src -d build"
+    "build": "./node_modules/.bin/babel src -d build",
+    "zip": "zip infinitycam.zip manifest.json build/*",
+    "release": "npm run build && npm run zip"
   },
   "repository": {
     "type": "git",
