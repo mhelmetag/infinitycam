@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "InfinityCam",
-  "short_name": "InfinityCam",
+  "name": "InfinitySurfCam",
+  "short_name": "InfinitySurfCam",
   "author": "Max Helmetag",
-  "version": "1.0",
-  "version_name": "1.0",
-  "description": "Watch Surfline Cams for (basically) Infinity with No Ads",
+  "version": "1.1.0",
+  "version_name": "1.1.0",
+  "description": "Watch Surfline Surf Cams for (basically) Infinity with No Ads",
   "content_scripts": [
     {
       "matches": [

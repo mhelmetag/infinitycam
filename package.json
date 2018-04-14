@@ -1,16 +1,16 @@
 {
-  "name": "infinitycam",
-  "version": "1.0.0",
-  "description": "Watch Surfline Cams for (basically) Infinity with No Ads",
+  "name": "infinitysurfcam",
+  "version": "1.1.0",
+  "description": "Watch Surfline Surf Cams for (basically) Infinity with No Ads",
   "main": "src/content.js",
   "scripts": {
     "build": "./node_modules/.bin/babel src -d build",
-    "zip": "zip infinitycam.zip manifest.json build/*",
+    "zip": "zip infinitysurfcam.zip manifest.json build/*",
     "release": "npm run build && npm run zip"
   },
   "repository": {
     "type": "git",
-    "url": "github.com/mhelmetag/infinitycam"
+    "url": "github.com/mhelmetag/infinitysurfcam"
   },
   "keywords": [
     "surfline",
