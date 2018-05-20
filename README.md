@@ -1,5 +1,7 @@
 # InfinitySurfCam
 
+**Note:** Unfortunately, Surfline has moved their surf cam pages to their new site format. These pages no longer expose these cam timeout variables making this extension obsolete.
+
 Watch Surfline Surf Cams for (basically) Infinity with No Ads
 
 ## More Info
